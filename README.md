@@ -5,7 +5,7 @@
 	
    <p> To get started, clone this repository and install the required packages:<br>
     git clone https://github.com/EathenHunt/HOTBITBOT.git<br>
-    cd hotbit-trading-bot<br>
+    cd HOTBITBOT<br>
     pip install -r requirements.txt</p><br>
     
  <p>Then, set up your API keys in a file called .env<br>
